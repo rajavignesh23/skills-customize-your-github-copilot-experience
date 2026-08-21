@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "database-backed-todo-api",
+      "title": "Database-Backed To-Do API",
+      "description": "Build a CRUD API with FastAPI and SQLite to store and manage tasks",
+      "path": "assignments/database-backed-todo-api",
+      "dueDate": "2026-08-28",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
